@@ -1,4 +1,4 @@
-# Stocks Researches
+# Stock Research
 In this project I'm going to create a Dashboard where we can find information about any stock to gain insights and facilitate decision making using some usefull python libraries and APIs.
 
 
